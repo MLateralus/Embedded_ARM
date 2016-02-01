@@ -1,0 +1,77 @@
+Dependencies for Project 'countd', Target 'Target 1': (DO NOT MODIFY !)
+F (.\buttons.c)(0x54F381F8)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\buttons.o --omf_browse .\objects\buttons.crf --depend .\objects\buttons.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (buttons.h)(0x54EDC88A)
+I (timer.h)(0x54F381DE)
+I (main.h)(0x54EF6CFD)
+I (lcd.h)(0x54EDC8AA)
+F (.\main.c)(0x54F38268)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (main.h)(0x54EF6CFD)
+I (lcd.h)(0x54EDC8AA)
+I (buttons.h)(0x54EDC88A)
+I (timer.h)(0x54F381DE)
+I (rtc.h)(0x54EDC8C4)
+I (tpm.h)(0x54EDC8DF)
+F (.\timer.c)(0x54F381DE)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (timer.h)(0x54F381DE)
+F (.\tpm.c)(0x54F381DE)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\tpm.o --omf_browse .\objects\tpm.crf --depend .\objects\tpm.d)
+I (tpm.h)(0x54EDC8DF)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (main.h)(0x54EF6CFD)
+I (timer.h)(0x54F381DE)
+I (lcd.h)(0x54EDC8AA)
+F (.\buttons.h)(0x54EDC88A)()
+F (.\lcd.h)(0x54EDC8AA)()
+F (.\main.h)(0x54EF6CFD)()
+F (.\timer.h)(0x54F381DE)()
+F (.\tpm.h)(0x54EDC8DF)()
+F (.\lcd.c)(0x54EDC8A7)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (lcd.h)(0x54EDC8AA)
+F (.\rtc.c)(0x54F38263)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\rtc.o --omf_browse .\objects\rtc.crf --depend .\objects\rtc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (rtc.h)(0x54EDC8C4)
+I (timer.h)(0x54F381DE)
+I (main.h)(0x54EF6CFD)
+I (lcd.h)(0x54EDC8AA)
+F (.\rtc.h)(0x54EDC8C4)()
+F (RTE\Device\MKL46Z256xxx4\startup_MKL46Z4.s)(0x51C01318)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "MKL46Z256xxx4 SETA 1"--list .\listings\startup_mkl46z4.lst --xref -o .\objects\startup_mkl46z4.o --depend .\objects\startup_mkl46z4.d)
+F (RTE\Device\MKL46Z256xxx4\system_MKL46Z4.c)(0x51C01318)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Lenovo\Desktop\Projekt UProc\project\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DMKL46Z256xxx4-o .\objects\system_mkl46z4.o --omf_browse .\objects\system_mkl46z4.crf --depend .\objects\system_mkl46z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.4.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
